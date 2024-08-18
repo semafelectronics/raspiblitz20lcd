@@ -65,5 +65,3 @@ Just replace the `/home/admin/00infoBlitz.sh` with the new script file in this r
 
 Enjoy!
 
-# License
-This work is licensed under a [Creative Commons Attribution 4.0 International License - CC BY-NC-SA 4.0 LEGAL CODE](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en)
